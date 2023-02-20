@@ -17,9 +17,9 @@
         <p>table</p>
             <table border="">
                 <tr>
-                <th>column 1</th>
-                <th>column 2</th>
-                <th>column 3</th>
+                <th>sample column 1</th>
+                <th>sample column 2</th>
+                <th>sample column 3</th>
                 </tr>
                 <tr>
                     <td>some data</td>
